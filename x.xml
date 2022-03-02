@@ -1,0 +1,20 @@
+<studentList>
+    <student>
+     <name>or</name>
+     <age>25</age>
+     <email>banaan@waasd.com</email>
+    </student>
+
+    <student>
+        <name>ori</name>
+         <age>26</age>
+         <email>bsad@asda.sdads</email>
+    </student>
+
+    <student>
+         <name>oris</name>
+         <age>27</age>
+         <email>sadsad@ert.com</email>
+    </student>
+  
+</studentList>
